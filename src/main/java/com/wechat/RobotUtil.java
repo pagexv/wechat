@@ -7,6 +7,9 @@ import java.awt.*;
 import java.awt.datatransfer.*;
 import java.awt.event.KeyEvent;
 
+/**
+ *  Desktop hijack wechat application
+ */
 public class RobotUtil {
 
     private static Robot robot;

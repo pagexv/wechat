@@ -15,6 +15,9 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.URL;
 
+/**
+ * Wechat work api class
+ */
 public class SendWeChatMessage {
     // 系统properties文件名称
 //    private static final String EMAILCONFIG = "emailAndMsgConfig";

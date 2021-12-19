@@ -9,6 +9,6 @@ public class WebHookPayload {
 
     @Override
     public String toString() {
-        return head_commit.getAuthor().getName() + "更新了题目: " + head_commit.getMessage();
+        return head_commit.getAuthor().getName() + "提交了: " + head_commit.getMessage();
     }
 }

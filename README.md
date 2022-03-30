@@ -10,7 +10,7 @@ Based on github webhook (subscribe every event on leetcode-Team repo) + wechat w
 mvn package appengine:deploy
 
 ## Check log
-gcloud app logs tail -s default
+gcloud app logs tail -s default 
 
 ## Config
 $ gcloud config list

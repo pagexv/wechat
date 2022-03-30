@@ -6,7 +6,7 @@ Based on github webhook (subscribe every event on leetcode-Team repo) + wechat w
  
 # Getting Started  
 
-## Deploy server 
+## Deploy server  
 mvn package appengine:deploy
 
 ## Check log

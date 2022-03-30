@@ -16,7 +16,7 @@ gcloud app logs tail -s default
 $ gcloud config list
 
 [accessibility]
-
+ 
 screen_reader = True
 
 [core]
